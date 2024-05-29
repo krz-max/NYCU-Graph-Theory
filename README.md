@@ -1,5 +1,5 @@
-# Course Name
+# NYCU Graph Theory
 
-[NYCU 2024 [Fall | Spring]] Course Name
+[NYCU 2024 Spring] Graph Theory
 
-Lecturer: 
+Lecturer: 李毅郎
